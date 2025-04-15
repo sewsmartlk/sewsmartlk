@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SewSmart.lk – Industrial Sewing Machines in Sri Lanka</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header>
+    <div class="container">
+      <h1>SewSmart.lk</h1>
+      <nav>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#products">Products</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h2>Smart Solutions for Industrial Stitching</h2>
+      <p>Your trusted partner for industrial sewing machines in Sri Lanka</p>
+      <a href="#products" class="btn">Browse Machines</a>
+    </div>
+  </section>
+
+  <section id="about" class="about">
+    <div class="container">
+      <h2>About Us</h2>
+      <p>SewSmart.lk is a trusted supplier of high-quality industrial sewing machines in Sri Lanka. We offer a wide range of machines for tailoring shops, factories, and businesses across the country.</p>
+    </div>
+  </section>
+
+  <section id="products" class="products">
+    <div class="container">
+      <h2>Our Products</h2>
+      <div class="product-grid">
+        <div class="product">
+          <h3>Single Needle Lockstitch</h3>
+          <p>Perfect for general stitching needs.</p>
+        </div>
+        <div class="product">
+          <h3>Overlock / Serger Machines</h3>
+          <p>Ideal for finishing and stretchy fabrics.</p>
+        </div>
+        <div class="product">
+          <h3>Heavy Duty Machines</h3>
+          <p>For leather, denim, and tough materials.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="contact">
+    <div class="container">
+      <h2>Contact Us</h2>
+      <p>Phone: +94 XXX XXX XXX</p>
+      <p>Email: info@sewsmart.lk</p>
+      <p>Address: No. XX, Colombo, Sri Lanka</p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 SewSmart.lk. All rights reserved.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
